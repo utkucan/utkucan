@@ -95,8 +95,5 @@ a:hover{
 .postcrossing:hover{background-position:-739px 0px;}
 .overwatch:hover{background-position:-797px 0;}
 
-.social .skype {text-indent:-9999px;}
-.social .skype img{display:none;}
-
-.social .skype a{background-position:-342px -57px;}
-.social .skype a:hover{background-position:-342px 0px;}
+.skype{background-position:-342px -57px;}
+.skype:hover{background-position:-342px 0px;}
