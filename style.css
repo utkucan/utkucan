@@ -1,4 +1,3 @@
-
 html, body{
 	background: url(bg.jpg) fixed left top no-repeat;
 	background-size:100% 100%;
@@ -15,22 +14,10 @@ body{
 	text-shadow:1px 1px 0px rgba(0,0,0,.5);
 }
 
-.snake{
-	/*display: block;*/
-    z-index: 9;
-	position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-}
-
 .wrapper{
 	/* margin:100px 0 0 50px;*/
 	margin:100px auto;
 	width:600px;
-	z-index:3;
 }
 
 .hobarey{
@@ -56,7 +43,7 @@ a:hover{
 
 .social {
 	height:57px;
-	width:366px;
+	width:427px;
 	margin:0px auto;
 	padding-top: 50px;
 }
@@ -90,6 +77,8 @@ a:hover{
 .github 	{background-position:-569px -57px;}
 .steam 		{background-position:-626px -57px;}
 .duolingo	{background-position:-683px -57px;}
+.postcrossing	{background-position:-740px -57px;}
+.overwatch	{background-position:-797px -57px;}
 
 .linkedin:hover{background-position:0px 0px;}
 .google:hover{background-position:-57px 0px;}
@@ -99,10 +88,12 @@ a:hover{
 .twitter:hover{background-position:-285px 0px;}
 .pinterest:hover{background-position:-399px 0px;}
 .mail:hover{background-position:-456px 0px;}
-.spotify:hover{background-position:-513px 0px;}
+.spotify:hover{background-position:-512px 0px;}
 .github:hover{background-position:-569px 0px;}
 .steam:hover{background-position:-626px 0px;}
 .duolingo:hover{background-position:-683px 0px;}
+.postcrossing:hover{background-position:-739px 0px;}
+.overwatch:hover{background-position:-797px 0;}
 
 .social .skype {text-indent:-9999px;}
 .social .skype img{display:none;}
