@@ -11,9 +11,9 @@ var DuoAPI = (function (window, undefined) {
     var api={
 	    
         config:{
-	        endpoint: 'http://www.duolingo.com/',
+	        endpoint: 'https://www.duolingo.com/',
 	        username: '',
-	        default_proxy_url: 'http://query.yahooapis.com/v1/public/yql',
+	        default_proxy_url: 'https://query.yahooapis.com/v1/public/yql',
 	    },
 	    
 	    //the currently active language on duo
