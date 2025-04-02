@@ -69,7 +69,8 @@ a:hover{
 .google 	{background-position:-57px -57px;}
 .instagram 	{background-position:-114px -57px;}
 .facebook 	{background-position:-171px -57px;}
-.youtube 	{background-position:-228px -57px;}
+/* .youtube 	{background-position:-228px -57px;} */
+.youtube 	{background-position:-342px -57px;}
 .twitter 	{background-position:-285px -57px;}
 .pinterest 	{background-position:-399px -57px;}
 .mail 		{background-position:-456px -57px;}
@@ -85,7 +86,8 @@ a:hover{
 .google:hover{background-position:-57px 0px;}
 .instagram:hover{background-position:-114px 0px;}
 .facebook:hover{background-position:-171px 0px;}
-.youtube:hover{background-position:-228px 0px;}
+/* .youtube:hover{background-position:-228px 0px;} */
+.youtube:hover{background-position:-342px 0px;}
 .twitter:hover{background-position:-285px 0px;}
 .pinterest:hover{background-position:-399px 0px;}
 .mail:hover{background-position:-456px 0px;}
@@ -97,5 +99,5 @@ a:hover{
 .overwatch:hover{background-position:-797px 0;}
 .discord:hover{background-position:-854px 0;}
 
-.skype{background-position:-342px -57px;}
-.skype:hover{background-position:-342px 0px;}
+/* .skype{background-position:-342px -57px;} */
+/* .skype:hover{background-position:-342px 0px;} */
